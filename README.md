@@ -7,6 +7,7 @@ Pavlov Map made for LIVE Shack SND
 Last Updated: 18/04/23 <br>
 Released: 18/04/23 <br>
 Made By: SmallDvrkOne (Cheesitz#0484)
+<br><br> Want to send some feedback? Make an issue or contact me!
 
 # Preview Pics
 
