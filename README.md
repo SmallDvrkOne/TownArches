@@ -4,7 +4,7 @@ This is my first public shack release. Other maps coming soon.
 Pavlov Map made for LIVE Shack SND
 
 # Info (dd/mm/yy)
-Last Updated: 18/04/23 <br>
+Last Updated: 7/05/23 <br>
 Released: 18/04/23 <br>
 Made By: SmallDvrkOne (Cheesitz#0484)
 <br><br> Want to send some feedback? Make an issue or contact me!
